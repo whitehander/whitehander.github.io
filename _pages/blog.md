@@ -5,7 +5,7 @@ layout: category
 author_profile: true
 toc_sticky: true
 toc_ads : true
-taxonomy: Blog
+taxonomy: blog
 ---
 
 일상의 글 모음입니다.
