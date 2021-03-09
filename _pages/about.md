@@ -2,7 +2,7 @@
 title: "마꾸, 정상민, whitehander"
 permalink: /about/
 layout: single
-toc: false
+author_profile: true
 ---
 
 ## 나는
@@ -27,6 +27,6 @@ toc: false
 - 설명하기
 
 ## 이력
-- (주) 컴퍼니위 2014년 9월 11일 ~ 2021년 3월 31일
+- (주)컴퍼니위, 2014년 9월 11일 ~ 2021년 3월 31일
   - 백엔드 개발자
   - 솔루션 아키텍트

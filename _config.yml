@@ -82,8 +82,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "마꾸"
-  avatar           : "/assets/images/whmark.png"
+  name             : 
+  avatar           : 
   bio              : "요리하고 고양이 키우는 개발자"
   location         : "의정부, South Korea"
   email            : ggami7282@gmail.com
@@ -247,7 +247,7 @@ defaults:
     values:
       layout: single
       classes: wide
-      author_profile: true
+      author_profile: false
       read_time: false
       comments: false
       share: false
@@ -260,7 +260,7 @@ defaults:
     values:
       layout: single
       classes: wide
-      author_profile: true
+      author_profile: false
       read_time: false
       comments: true
       share: false
@@ -272,7 +272,7 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       read_time: false
       comments: false
       share: false
